@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>
+        月瞳
+    </title>
+</head>
+<body>
+    <h1>星瞳</h1>
+    <hr>
+    {{ posts }}
+    <hr>
+    <h3>现在时间: {{ now }}</h3>
+</body>
+</html>
